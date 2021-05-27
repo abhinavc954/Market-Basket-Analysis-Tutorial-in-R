@@ -21,5 +21,7 @@ A complete tutorial on Market basket analysis in R, oriented towards practical a
 
 **STEP 2 :CREATE RULES**
 
-![image](https://user-images.githubusercontent.com/12694124/119851412-021f3d00-bf2c-11eb-9c86-8a832b2807b2.png)
+![image](https://user-images.githubusercontent.com/12694124/119851667-38f55300-bf2c-11eb-9afa-641ebb90f185.png)
 
+![image](https://user-images.githubusercontent.com/12694124/119851692-3eeb3400-bf2c-11eb-97fb-91308e535eac.png)
+![image](https://user-images.githubusercontent.com/12694124/119851716-44487e80-bf2c-11eb-9f4a-9d8f06624a12.png)
