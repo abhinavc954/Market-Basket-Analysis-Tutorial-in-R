@@ -7,7 +7,7 @@ A complete tutorial on Market basket analysis in R, oriented towards practical a
 
 #**Terminologies**
 
-![image](https://user-images.githubusercontent.com/12694124/119849713-7bb62b80-bf2a-11eb-8b13-20a5bf4a539e.png)
+![image](https://user-images.githubusercontent.com/12694124/119850493-39411e80-bf2b-11eb-8ee3-6d1a6dbaec67.png)
 
 #**Prerequisites**
 
