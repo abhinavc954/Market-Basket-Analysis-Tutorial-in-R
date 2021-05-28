@@ -30,11 +30,18 @@ A complete tutorial on Market basket analysis in R, oriented towards practical a
 
 ![image](https://user-images.githubusercontent.com/12694124/119942444-76e78b00-bfaf-11eb-8829-cfe1963ed6af.png)
 
-#Step 3: Finding Affinity Score for each Rule!
+**Step 3: Finding Affinity Score for each Rule!**
 ![image](https://user-images.githubusercontent.com/12694124/119942924-fecd9500-bfaf-11eb-9c57-43c31ecf2349.png)
 ![image](https://user-images.githubusercontent.com/12694124/119942948-03924900-bfb0-11eb-8f4d-2fbbeb3b1a21.png)
 
 ![image](https://user-images.githubusercontent.com/12694124/119942994-10af3800-bfb0-11eb-8963-e55b214a0e23.png)
+
+![image](https://user-images.githubusercontent.com/12694124/119943155-47854e00-bfb0-11eb-9a7a-69e26ea841da.png)
+![image](https://user-images.githubusercontent.com/12694124/119943168-4bb16b80-bfb0-11eb-9b10-d93f50e0b290.png)
+
+**STEP 4: Inference**
+![image](https://user-images.githubusercontent.com/12694124/119943214-5bc94b00-bfb0-11eb-97ce-c326e713da16.png)
+
 
 
 
